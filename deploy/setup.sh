@@ -1,3 +1,4 @@
+
 #!/bin/bash
 # ============================================
 # Jerney Blog Platform - EC2 Setup Script

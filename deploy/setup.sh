@@ -7,6 +7,7 @@
 
 set -e
 
+
 echo "🛤️  Setting up Jerney Blog Platform..."
 echo "==========================================="
 

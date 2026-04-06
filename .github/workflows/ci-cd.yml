@@ -6,7 +6,6 @@
 # Triggers on every push and pull request.
 # Stages: Lint → SCA → Build → Image Scan → IaC Scan → Deploy Manifest Update
 # ==============================================================
-
 name: Jerney DevSecOps Pipeline
 
 on:
